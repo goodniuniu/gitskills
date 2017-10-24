@@ -4,3 +4,19 @@ why i don't use this before 20 years?
 why don't tell the story for the child?
 so much need to learn. but you have to choose the right one first.
 no one know what will be at the next year the same day.
+
+
+# 使用十年时间做同样的事情
+看到知乎中有说法，用了十年的时间坚持每天都能使用左手写上一版字。如今的效果是左手的字体比右手更稳重。
+在20171024日重启github这样的记录方式，能坚持多久呢？
+相对于坚果云，这里可能会有公开的效果，或者自己就把这里定位为对外展现自己进度的方式了。
+
+## 自学记录
+1. 把GIT的使用复习了一次
+2. 思考了“市场是有效的：键盘布局的神话”
+
+## 思考
+### 市场是有效的：键盘布局的神话
+- 如果市场的资源都是有主人的，就不需要惧怕市场会失效
+如果这句话成立，那是否需要考虑如果市场的资源失去了明确的所有权，会陷入一个难以有效组织的困境？那么在现在的公有资源使用中，是否存在这样的例子？
+
