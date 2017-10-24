@@ -1,0 +1,243 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"x",
+				"x"
+			],
+			[
+				"y",
+				"y"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "gitskills.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/goodniuniu/Github/gitskills",
+		"/C/Users/goodniuniu/Github/gitskills/coding",
+		"/C/Users/goodniuniu/Github/gitskills/coding/learnpythonethehardway",
+		"/C/Users/goodniuniu/Github/gitskills/excel"
+	],
+	"file_history":
+	[
+		"/C/Users/goodniuniu/Dropbox/Personal Documents/2016/writing/#62 DOCKER的学习",
+		"/C/Users/goodniuniu/Dropbox/Personal Documents/2016/writing/#  40 6个月学习好外语的方法",
+		"/C/Users/goodniuniu/Dropbox/Personal Documents/2016/writing/统一通信下阶段工作思路",
+		"/C/Users/goodniuniu/Dropbox/Personal Documents/2016/writing/## HTTP持久连接的支持.TXT",
+		"/C/Users/goodniuniu/Dropbox/Personal Documents/2016/writing/# 思考结构.TXT",
+		"/C/Users/goodniuniu/Dropbox/Personal Documents/2016/writing/宁波集中工作问题反馈.txt",
+		"/C/Users/goodniuniu/Dropbox/Personal Documents/2016/writing/父亲节的思考.txt",
+		"/C/Users/goodniuniu/Dropbox/Personal Documents/2016/writing/# 59 亲爱的安德烈.txt",
+		"/C/Users/goodniuniu/Dropbox/Personal Documents/2016/writing/# 58 《精进》.txt",
+		"/C/Users/goodniuniu/Dropbox/Personal Documents/2016/writing/# 57 认同感-用故事包装事实的艺术.txt",
+		"/C/Users/goodniuniu/Dropbox/Personal Documents/2016/writing/# 56 雷军的思考",
+		"/C/Users/goodniuniu/Dropbox/Personal Documents/2016/coding/newton_2.py",
+		"/C/Users/goodniuniu/Dropbox/Personal Documents/2016/writing/# 54 2016科技论文思考.txt",
+		"/C/Users/goodniuniu/Dropbox/Personal Documents/2016/focus/# A07 关于wireshark的使用.txt",
+		"/C/Users/goodniuniu/Dropbox/Personal Documents/2016/writing/# 研发的备忘录",
+		"/C/Users/goodniuniu/Dropbox/Personal Documents/2016/writing/#  22 努力成长为一个聪明人.txt",
+		"/C/Users/goodniuniu/Dropbox/Personal Documents/2016/coding/newton.py",
+		"/C/Users/goodniuniu/Dropbox/Personal Documents/2016/TEMP/89710620、gzDSL38062059@163.gd",
+		"/C/Users/goodniuniu/Dropbox/Personal Documents/2016/TEMP/#  东方鸿泰合作推动",
+		"/C/Users/goodniuniu/Dropbox/Personal Documents/2016/TEMP/迪普",
+		"/C/Users/goodniuniu/Dropbox/Personal Documents/2016/writing/#  43 统计学习笔记",
+		"/C/Users/goodniuniu/Dropbox/Personal Documents/2016/# 35 集中审图中心进度安排",
+		"/C/Users/goodniuniu/Dropbox/Personal Documents/2016/# 人生阶段",
+		"/C/Users/goodniuniu/Dropbox/Personal Documents/2016/# 跨境电子商务的技术评估会议.txt",
+		"/C/Users/goodniuniu/Dropbox/Personal Documents/2016/# 广州海关信息分中心容灾备份需求.txt",
+		"/C/Users/goodniuniu/Dropbox/Personal Documents/2016/#  01每日都坚持写作吧，骚年（2016计划）.txt",
+		"/C/Users/goodniuniu/Dropbox/Personal Documents/2016/#  19 每日的自省"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "gitskills.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "gitskills.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
