@@ -4,3 +4,4 @@ append GPL
 add change from ubuntu
 change from macbook
 try to find out different from local master and oringin master
+can't find out how to diff
