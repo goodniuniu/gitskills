@@ -1,4 +1,8 @@
 this is a new file
 append Unix GPL
 append GPL
+<<<<<<< HEAD
 add change from ubuntu
+=======
+change from macbook
+>>>>>>> 6bfe12de1ab236f1ecd69366a76630df21525279
