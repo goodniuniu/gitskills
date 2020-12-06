@@ -1,4 +1,0 @@
-This is a new branch for 20150423-stage1.
-let us check out how does it work.
-modified on branch of 20150423-stage1.add a nice line
-This is a new line for test the diff between origin and master.
